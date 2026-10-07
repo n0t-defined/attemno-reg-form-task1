@@ -1,41 +1,39 @@
-:::writing{variant="document" id="85214" title="README.md"}
+# AttenMo Registration Form
 
-📝 AttenMo Registration Form
-A simple and clean registration form for AttenMo, created as a beginner-level HTML & CSS project.
+A simple registration form created for AttenMo using HTML and basic CSS.
 
-📌 About
-This project is a basic registration form that collects:
+## About the Project
 
-👤 Name
-📧 Email
-🏫 College
-📚 Department
-It also includes a Submit button.
+This project contains a basic registration form with:
 
-🛠️ Built With
-HTML
-Basic CSS
-🎯 My Learning
+- Name
+- Email
+- College
+- Department
+- Submit button
+
+## Technologies Used
+
+- HTML
+- Basic CSS
+
+## What I Knew Before
+
 I already had a basic understanding of HTML, but I had not worked with HTML forms before.
+
+## What I Learned
 
 Through this project, I learned:
 
-How HTML forms work
-How to use input fields
-How to create a submit button
-Basic CSS styling
-padding and margin
-Colors and simple styling
-💡 My Approach
-I started by creating the basic structure using HTML. After understanding the form, I added simple CSS to improve its appearance.
+- How to create an HTML form
+- How to use input fields
+- How to create a submit button
+- Basic CSS styling
+- The use of padding and margin
+- How to use Git and GitHub
 
-I kept the design simple and focused on understanding the code rather than making it overly complicated.
+## My Approach
 
-📂 Project Structure
-AttenMo/
-└── index.html
-🚀 What I Learned
-This project helped me understand HTML forms and basic CSS. I also got practical experience with Git and GitHub while uploading and managing my project.
+I first created the form using basic HTML. Then I learned about HTML form elements and added simple CSS to make the form look cleaner.
 
-Built as a learning project for AttenMo.
-:::
+I focused on understanding the code and keeping the design simple rather than making it overly complicated.
