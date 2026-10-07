@@ -29,8 +29,6 @@ Through this project, I learned:
 - How to use input fields
 - How to create a submit button
 - Basic CSS styling
-- The use of padding and margin
-- How to use Git and GitHub
 
 ## My Approach
 
